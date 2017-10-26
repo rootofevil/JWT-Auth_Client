@@ -1,0 +1,7 @@
+SECRET_KEY='ewfwefewfqewfqwfgreg'
+JWT_COOKIE_NAME = 'sso_token'
+LOG_PATH = 'jwt-client.log'
+LOG_LEVEL = 'debug'
+SSO_URL = 'http://ssowebservice.gssmp.local/'
+REDIRECT_TO = '/'
+PUBLIC_KEY_PATH = 'public_key.pem'
